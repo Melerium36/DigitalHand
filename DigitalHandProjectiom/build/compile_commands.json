@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build",
+  "command": "/usr/bin/cc -I/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/external/glad/include -o CMakeFiles/glad.dir/external/glad/src/glad.c.o -c /home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/external/glad/src/glad.c",
+  "file": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/external/glad/src/glad.c",
+  "output": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build/CMakeFiles/glad.dir/external/glad/src/glad.c.o"
+},
+{
+  "directory": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build",
+  "command": "/usr/bin/c++ -I/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/external/glad/include -std=gnu++20 -o CMakeFiles/app.dir/src/main.cpp.o -c /home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/src/main.cpp",
+  "file": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/src/main.cpp",
+  "output": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build/CMakeFiles/app.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build",
+  "command": "/usr/bin/c++ -I/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/external/glad/include -std=gnu++20 -o CMakeFiles/app.dir/src/utility/ShaderLoader.cpp.o -c /home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/src/utility/ShaderLoader.cpp",
+  "file": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/src/utility/ShaderLoader.cpp",
+  "output": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build/CMakeFiles/app.dir/src/utility/ShaderLoader.cpp.o"
+},
+{
+  "directory": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build",
+  "command": "/usr/bin/c++ -I/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/external/glad/include -std=gnu++20 -o CMakeFiles/app.dir/src/opengl_api/build_shader.cpp.o -c /home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/src/opengl_api/build_shader.cpp",
+  "file": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/src/opengl_api/build_shader.cpp",
+  "output": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build/CMakeFiles/app.dir/src/opengl_api/build_shader.cpp.o"
+},
+{
+  "directory": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build",
+  "command": "/usr/bin/c++ -I/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/external/glad/include -std=gnu++20 -o CMakeFiles/app.dir/src/imu_reader/Imu_reader.cpp.o -c /home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/src/imu_reader/Imu_reader.cpp",
+  "file": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/src/imu_reader/Imu_reader.cpp",
+  "output": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build/CMakeFiles/app.dir/src/imu_reader/Imu_reader.cpp.o"
+},
+{
+  "directory": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build",
+  "command": "/usr/bin/c++ -I/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/external/glad/include -std=gnu++20 -o CMakeFiles/app.dir/src/MadgwickAlg/MadgwickAHRS.cpp.o -c /home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/src/MadgwickAlg/MadgwickAHRS.cpp",
+  "file": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/src/MadgwickAlg/MadgwickAHRS.cpp",
+  "output": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build/CMakeFiles/app.dir/src/MadgwickAlg/MadgwickAHRS.cpp.o"
+},
+{
+  "directory": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build",
+  "command": "/usr/bin/c++ -I/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/external/glad/include -std=gnu++20 -o CMakeFiles/app.dir/src/DrawObjects/Handpart.cpp.o -c /home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/src/DrawObjects/Handpart.cpp",
+  "file": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/src/DrawObjects/Handpart.cpp",
+  "output": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build/CMakeFiles/app.dir/src/DrawObjects/Handpart.cpp.o"
+},
+{
+  "directory": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build",
+  "command": "/usr/bin/c++ -I/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/external/glad/include -std=gnu++20 -o CMakeFiles/app.dir/src/callibration/callibrator.cpp.o -c /home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/src/callibration/callibrator.cpp",
+  "file": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/src/callibration/callibrator.cpp",
+  "output": "/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build/CMakeFiles/app.dir/src/callibration/callibrator.cpp.o"
+}
+]

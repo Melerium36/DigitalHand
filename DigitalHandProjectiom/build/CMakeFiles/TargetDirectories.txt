@@ -1,0 +1,4 @@
+/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build/CMakeFiles/glad.dir
+/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build/CMakeFiles/app.dir
+/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build/CMakeFiles/edit_cache.dir
+/home/Melerium/Documents/Programmieren/C/OpenGlGames/Spielerrei_linux/build/CMakeFiles/rebuild_cache.dir
